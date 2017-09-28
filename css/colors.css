@@ -1,15 +1,15 @@
 /* ----------------------------------------------------------------
-	Colors
+    Colors
 
-	Replace the HEX Code with your Desired Color HEX
+    Replace the HEX Code with your Desired Color HEX
 -----------------------------------------------------------------*/
 
 
-::selection { background: #2e8ece; }
+::selection { background: #F18052; }
 
-::-moz-selection { background: #2e8ece; }
+::-moz-selection { background: #F18052; }
 
-::-webkit-selection { background: #2e8ece; }
+::-webkit-selection { background: #F18052; }
 
 
 a,
@@ -26,7 +26,7 @@ h6 > span:not(.nocolor),
 #primary-menu div ul li.current > a,
 #primary-menu ul ul li:hover > a,
 #primary-menu ul li .mega-menu-content.style-2 ul.mega-menu-column > li.mega-menu-title > a:hover,
-#top-cart > a:hover,
+#top-cart a:hover,
 .top-cart-action span.top-checkout-price,
 .breadcrumb a:hover,
 .portfolio-filter li a:hover,
@@ -61,12 +61,10 @@ h6 > span:not(.nocolor),
 .pagination > li > a:focus,
 .pagination > li > span:focus,
 .dark .post-timeline .entry:hover .entry-timeline,
-.dark .post-timeline .entry:hover .timeline-divider,
-.clear-rating-active:hover { color: #2e8ece; }
+.dark .post-timeline .entry:hover .timeline-divider { color: #F18052; }
 
 .color,
 .top-cart-item-desc a:hover,
-.portfolio-filter.style-3 li.activeFilter a,
 .faqlist li a:hover,
 .tagcloud a:hover,
 .dark .top-cart-item-desc a:hover,
@@ -77,7 +75,7 @@ h6 > span:not(.nocolor),
 .overlay-menu #primary-menu.dark > ul > li.current > a,
 .nav-tree li:hover > a,
 .nav-tree li.current > a,
-.nav-tree li.active > a { color: #2e8ece !important; }
+.nav-tree li.active > a { color: #F18052 !important; }
 
 #primary-menu.style-3 > ul > li.current > a,
 #primary-menu.sub-title > ul > li:hover > a,
@@ -88,9 +86,8 @@ h6 > span:not(.nocolor),
 #page-menu-wrap,
 #page-menu ul ul,
 #page-menu.dots-menu nav li.current a,
-#page-menu.dots-menu nav li div,
+#page-menu.dots-menu nav li span,
 .portfolio-filter li.activeFilter a,
-.portfolio-filter.style-4 li.activeFilter a:after,
 .portfolio-shuffle:hover,
 .entry-link:hover,
 .sale-flash,
@@ -120,20 +117,7 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
 .ei-slider-thumbs li.ei-slider-element,
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
-.nav-pills > li.active > a:focus,
-.checkbox-style:checked + .checkbox-style-1-label:before,
-.checkbox-style:checked + .checkbox-style-2-label:before,
-.checkbox-style:checked + .checkbox-style-3-label:before,
-.radio-style:checked + .radio-style-3-label:before,
-.irs-bar,
-.irs-from,
-.irs-to,
-.irs-single,
-input.switch-toggle-flat:checked + label,
-input.switch-toggle-flat:checked + label:after,
-input.switch-toggle-round:checked + label:before,
-.bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-themecolor,
-.bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-themecolor { background-color: #2e8ece; }
+.nav-pills > li.active > a:focus { background-color: #F18052; }
 
 .bgcolor,
 .button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover,
@@ -141,18 +125,17 @@ input.switch-toggle-round:checked + label:before,
 .process-steps li.ui-tabs-active a,
 .sidenav > .ui-tabs-active > a,
 .sidenav > .ui-tabs-active > a:hover,
-.owl-carousel .owl-nav [class*=owl-]:hover,
+.owl-carousel .owl-controls .owl-nav [class*=owl-]:hover,
 .pagination > .active > a,
 .pagination > .active > span,
 .pagination > .active > a:hover,
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
-.pagination > .active > span:focus { background-color: #2e8ece !important; }
+.pagination > .active > span:focus { background-color: #F18052 !important; }
 
 #primary-menu.style-4 > ul > li:hover > a,
 #primary-menu.style-4 > ul > li.current > a,
 .top-cart-item-image:hover,
-.portfolio-filter.style-3 li.activeFilter a,
 .post-timeline .entry:hover .entry-timeline,
 .post-timeline .entry:hover .timeline-divider,
 .cart-product-thumbnail img:hover,
@@ -162,7 +145,7 @@ input.switch-toggle-round:checked + label:before,
 .dark .post-timeline .entry:hover .entry-timeline,
 .dark .post-timeline .entry:hover .timeline-divider,
 .dark .cart-product-thumbnail img:hover,
-.heading-block.border-color:after { border-color: #2e8ece; }
+.heading-block.border-color:after { border-color: #F18052; }
 
 .top-links ul ul,
 .top-links ul div.top-link-section,
@@ -179,15 +162,12 @@ input.switch-toggle-round:checked + label:before,
 .dark #primary-menu:not(.not-dark) ul li .mega-menu-content.style-2,
 #primary-menu.dark ul li .mega-menu-content.style-2,
 .dark #top-cart .top-cart-content,
-.tabs.tabs-tb ul.tab-nav li.ui-tabs-active a,
-.irs-from:after,
-.irs-single:after,
-.irs-to:after { border-top-color: #2e8ece; }
+.tabs.tabs-tb ul.tab-nav li.ui-tabs-active a { border-top-color: #F18052; }
 
-#page-menu.dots-menu nav li div:after,
-.title-block { border-left-color: #2e8ece; }
+#page-menu.dots-menu nav li span:after,
+.title-block { border-left-color: #F18052; }
 
-.title-block-right { border-right-color: #2e8ece; }
+.title-block-right { border-right-color: #F18052; }
 
 .fancy-title.title-bottom-border h1,
 .fancy-title.title-bottom-border h2,
@@ -196,7 +176,7 @@ input.switch-toggle-round:checked + label:before,
 .fancy-title.title-bottom-border h5,
 .fancy-title.title-bottom-border h6,
 .more-link,
-.tabs.tabs-bb ul.tab-nav li.ui-tabs-active a { border-bottom-color: #2e8ece; }
+.tabs.tabs-bb ul.tab-nav li.ui-tabs-active a { border-bottom-color: #F18052; }
 
 .border-color,
 .process-steps li.active a,
@@ -207,34 +187,34 @@ input.switch-toggle-round:checked + label:before,
 .pagination > .active > a:hover,
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
-.pagination > .active > span:focus { border-color: #2e8ece !important; }
+.pagination > .active > span:focus { border-color: #F18052 !important; }
 
 .fbox-effect.fbox-dark .fbox-icon i:after,
-.dark .fbox-effect.fbox-dark .fbox-icon i:after { box-shadow: 0 0 0 2px #2e8ece; }
+.dark .fbox-effect.fbox-dark .fbox-icon i:after { box-shadow: 0 0 0 2px #F18052; }
 
 .fbox-border.fbox-effect.fbox-dark .fbox-icon i:hover,
 .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i,
 .dark .fbox-border.fbox-effect.fbox-dark .fbox-icon i:hover,
-.dark .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i { box-shadow: 0 0 0 1px #2e8ece; }
+.dark .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i { box-shadow: 0 0 0 1px #F18052; }
 
 
 @media only screen and (max-width: 991px) {
 
-	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover a,
-	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li.current a,
-	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li:hover a,
-	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a,
-	#primary-menu ul ul li:hover > a,
-	#primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title:hover > a,
-	#primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a:hover { color: #2e8ece !important; }
+    body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover a,
+    body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li.current a,
+    body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li:hover a,
+    body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a,
+    #primary-menu ul ul li:hover > a,
+    #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title:hover > a,
+    #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a:hover { color: #F18052 !important; }
 
-	#page-menu nav { background-color: #2e8ece; }
+    #page-menu nav { background-color: #F18052; }
 
 }
 
 
 @media only screen and (max-width: 767px) {
 
-	.portfolio-filter li a:hover { color: #2e8ece; }
+    .portfolio-filter li a:hover { color: #F18052; }
 
 }
