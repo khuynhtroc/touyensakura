@@ -311,7 +311,7 @@ span.middot {
 
 .topmargin-lg { margin-top: 80px !important; }
 
-.bottommargin-lg { margin-bottom: 80px !important; }
+.bottommargin-lg { margin-bottom: 40px !important; }
 
 .clear-bottommargin-lg { margin-bottom: -80px !important; }
 
@@ -535,8 +535,8 @@ span.middot {
 
 .section {
 	position: relative;
-	margin: 60px 0;
-	padding: 60px 0;
+	margin: 0px 0;
+	padding: 20px 0;
 	background-color: #F9F9F9;
 	overflow: hidden;
 }
@@ -7374,7 +7374,7 @@ body:not(.device-touch) .button.button-full strong {
 	border-radius: 0 !important;
 	border-left: 0 !important;
 	border-right: 0 !important;
-	padding: 40px 0 !important;
+	padding: 20px 0 !important;
 }
 
 .promo-full a.button { right: 15px !important; }
