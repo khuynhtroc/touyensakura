@@ -1131,7 +1131,7 @@ body.stretched #header.full-header .container {
 	padding: 39px 15px;
 	color: #444;
 	font-weight: bold;
-	font-size: 13px;
+	font-size: 18px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	font-family: 'Raleway', sans-serif;
@@ -5743,7 +5743,7 @@ img.alignleft,
 div.alignleft {
 	float: left;
 	margin: 5px 20px 13px 0;
-	max-width: 10%;
+	max-width: 30%;
 }
 
 div.alignleft > img,
@@ -6948,7 +6948,7 @@ body:not(.device-touch) .button.button-reveal span {
 	margin: 0;
 	height: auto;
 	line-height: 1.6;
-	padding: 30px 0;
+	padding: 15px 0;
 	font-size: 30px;
 	font-weight: 300;
 	text-transform: none;
@@ -8297,7 +8297,7 @@ body:not(.device-touch) .social-icon {
 	height: 36px !important;
 	font-size: 28px;
 	line-height: 36px !important;
-	color: #444;
+	color: #ffffff;
 	text-shadow: 1px 1px 1px #FFF;
 }
 
@@ -12053,7 +12053,7 @@ button.toast-close-button {
 
 .widget > h4 {
 	margin-bottom: 25px;
-	font-size: 15px;
+	font-size: 20px;
 	font-weight: 600;
 	letter-spacing: 2px;
 	text-transform: uppercase;
