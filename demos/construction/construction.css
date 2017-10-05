@@ -8,11 +8,11 @@
 -----------------------------------------------------------------*/
 
 
-#top-bar { background-color: #FFF; }
+#top-bar { background-color: #000; }
 
 .top-links li > a {
 	font-weight: 400;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 .top-links ul ul a { font-size: 11px; }
